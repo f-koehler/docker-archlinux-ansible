@@ -1,3 +1,5 @@
 # Archlinux Ansible Docker Image
 
-[![CI](https://github.com/f-koehler/docker-archlinux-ansible/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/f-koehler/docker-archlinux-ansible/actions/workflows/docker-publish.yml)
+[![CI](https://github.com/f-koehler/docker-archlinux-ansible/actions/workflows/build.yml/badge.svg)](https://github.com/f-koehler/docker-archlinux-ansible/actions/workflows/build.yml)
+![Docker Pulls](https://img.shields.io/docker/pulls/fabiankoehler/archlinux-ansible)
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/fabiankoehler/archlinux-ansible/latest) |
