@@ -1,3 +1,3 @@
-FROM archlinux.latest
+FROM archlinux:latest
 
-RUN pacman -Syu && pacman -S ansible
+RUN pacman -Syu --noconfirm && pacman -S ansible --noconfirm
